@@ -68,7 +68,21 @@ li{
     border: solid 5px blue;
       
 }
-   
+    .contact textarea {
+        margin-top: 20px;
+        }
+
+    button {
+    height: 30px;
+    background-color: aqua;
+    font-size: 15px;
+    font-family: Arial;
+    color: white; 
+        
     
-   
+}
+    
+    
+}            
+      t
 
